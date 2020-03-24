@@ -7,7 +7,7 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: getJerryG
 language: en
 timezone: ''
 
@@ -98,4 +98,10 @@ theme: Butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+<<<<<<< Updated upstream
   type: ''
+=======
+  type: git
+  repo: https://github.com/getJerryG/getJerryG.github.io.git
+  branch: master
+>>>>>>> Stashed changes
