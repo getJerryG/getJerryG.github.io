@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: CJerry-G
+subtitle: '欢迎大家进来技术交流'
+description: 'code is poetry'
 keywords:
-author: getJerryG
+author: GetJerryG
 language: en
 timezone: ''
 
@@ -98,10 +98,6 @@ theme: Butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-<<<<<<< Updated upstream
-  type: ''
-=======
   type: git
   repo: https://github.com/getJerryG/getJerryG.github.io.git
   branch: master
->>>>>>> Stashed changes
