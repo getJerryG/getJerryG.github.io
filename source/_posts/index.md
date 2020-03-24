@@ -1,6 +1,8 @@
 ---
 title: 个人简历
 date: 2020-03-24 21:46:27
+description: "面试官您好！您有一份硬核简历，请注意查收！！"
+tags: ["Typescript","ECMAScript6","Vue","面向对象编程"，"模块化开发","HTML5","CSS3","Node.js"]
 ---
 
 # <span style="color: #fff; background-color:#0ef ;display:block width:100%"> 仲光景 个人简历 </span>
