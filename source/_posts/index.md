@@ -1,13 +1,25 @@
 ---
 title: 个人简历
 date: 2020-03-24 21:46:27
+tags: 
+	-	Typescript
+	-	ECMAScript6
+	-	Vue
+	-	面向对象编程
+	-	模块化开发
+	-	HTML5
+	-	CSS3
+	-	Node.js
+
 description: "面试官您好！您有一份硬核简历，请注意查收！！"
-tags: ["Typescript","ECMAScript6","Vue","面向对象编程"，"模块化开发","HTML5","CSS3","Node.js"]
+
+top_img: /img/jianli.jpg
+cover: "/img/jianli.jpg"
 ---
 
-# <span style="color: #fff; background-color:#0ef ;display:block width:100%"> 仲光景 个人简历 </span>
+# <span style="color: #fff; background-color:#0ef ;display:block"> 仲光景 个人简历 </span>
 
-##	<span style="border-left : 10px solid #f40; right:10px">   </span>基本信息
+##	<span style="border-left:10px solid #f40; margin-right:10px">   </span>基本信息
 年龄：21岁
 
 籍贯：湖北武汉
@@ -28,7 +40,7 @@ Github：https://github.com/getJerryG
 
 
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span> 求职意向
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span> 求职意向
 
 意向职位：Web前端开发工程师；
 
@@ -42,7 +54,7 @@ Github：https://github.com/getJerryG
 
 
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span>教育背景
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span>教育背景
 
 | *起始时间* | *结束时间* | *毕业院校*           | *专业*       | *学历*       | *状态* |
 | ---------- | ---------- | -------------------- | ------------ | ------------ | ------ |
@@ -55,7 +67,7 @@ Github：https://github.com/getJerryG
 
 
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span>校园经历
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span>校园经历
 
 2017-12 -2019-10
 
@@ -75,7 +87,7 @@ Github：https://github.com/getJerryG
 
 
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span>工作经历
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span>工作经历
 
 **2019年03月~2020年1月**  武汉育豪体育文化传播有限公司
 
@@ -107,7 +119,7 @@ Github：https://github.com/getJerryG
 
  
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span>技能专长
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span>技能专长
 
 能够熟练的使用**HTML**、**CSS**、**Javascript**等开发语言，进行可读性高的W3C规范代码编程；熟悉**HTML5**、**CSS3**、**ECMAScript6**新特性，并进行响应式开发；
 
@@ -177,7 +189,7 @@ Github：https://github.com/getJerryG
 **【问题描述】TypeScript 无法识别 $refs 的问题**
 总结：
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span>个人评价
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span>个人评价
 
  热爱编程，快速自学能力强，喜欢钻研与总结，对于创造性的工作充满热忱；
 
@@ -191,7 +203,7 @@ Github：https://github.com/getJerryG
 
  本人思想端正、积极向上、适应力强，有管理组织能力。
 
-## <span style="border-left : 10px solid #f40; right:10px">  </span>致谢
+## <span style="border-left : 10px solid #f40; margin-right:10px">  </span>致谢
 
 ​	***感谢您花时间阅读我的简历，期待能有机会和您共事***
 
